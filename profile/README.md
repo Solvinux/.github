@@ -2,7 +2,9 @@
 
 Solvinux Solution Inc.
 ======================
-[![Solvinux's Visitors Count](https://gpvc.arturio.dev/solvinux)] [![DC Member Count](https://badgen.net/discord/members/BCf59exHJV)][dc] [![Online Member Count](https://badgen.net/discord/online-members/BCf59exHJV)][dc]
+[![Solvinux's Visitors Count](https://gpvc.arturio.dev/solvinux)][Sg]
+[![DC Member Count](https://badgen.net/discord/members/BCf59exHJV)][dc]
+[![Online Member Count](https://badgen.net/discord/online-members/BCf59exHJV)][dc]
 
 Solvinux is an open platform for young learners. Basically the owner of [Platinamo][P], [TenTraicion][T]
 
@@ -29,5 +31,6 @@ Solvinux is an open platform for young learners. Basically the owner of [Platina
 [Tl]: https://cdn.discordapp.com/avatars/961691050609623080/045723c581233d6720a06ebb5d9d5b88.png?size=4096 "TenTraicion Logo"
 [T]: https://tentraicion.github.io "TenTraicion"
 [Tg]: https://github.com/TenTraicion "TenTraicion GitHub"
+[dc]: https://discord.com/invite/BCf59exHJV "Solvinux Discord Server"
 
 <!--Notes Markdown-->
