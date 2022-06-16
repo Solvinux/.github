@@ -2,21 +2,13 @@
 
 Solvinux Solution Inc.
 ======================
+
+[![Solvinux Web Info](https://img.shields.io/website-up-down-aqua-red/https/solvinux.github.io)][S]
 [![Solvinux's Visitors Count](https://gpvc.arturio.dev/solvinux)][Sg]
 [![DC Member Count](https://badgen.net/discord/members/BCf59exHJV)][dc]
 [![Online Member Count](https://badgen.net/discord/online-members/BCf59exHJV)][dc]
 
 Solvinux is an open platform for young learners. Basically the owner of [Platinamo][P], [TenTraicion][T]
-
-
-
-
-
-
-
-
-
-
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSolvinux&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
