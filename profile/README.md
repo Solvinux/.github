@@ -8,7 +8,7 @@ Solvinux Solution Inc.
 [![DC Member Count](https://badgen.net/discord/members/BCf59exHJV)][dc]
 [![Online Member Count](https://badgen.net/discord/online-members/BCf59exHJV)][dc]
 
-Solvinux is an open platform for young learners. Basically the owner of [Platinamo][P], [TenTraicion][T]
+Solvinux is an open platform for young learners. Where we learn with the community and help each other.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSolvinux&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
