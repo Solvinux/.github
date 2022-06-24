@@ -1,6 +1,6 @@
 ## Welcome to,
 
-Solvinux Solution Inc.
+Solvinux Solutions, Inc.
 ======================
 
 [![Solvinux Web Info](https://img.shields.io/website-up-down-aqua-red/https/solvinux.github.io)][S]
